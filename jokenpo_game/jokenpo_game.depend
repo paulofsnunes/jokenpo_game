@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615591237 source:c:\users\paulo\desktop\pedra-papel-tesoura\jokenpo\jokenpo_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
